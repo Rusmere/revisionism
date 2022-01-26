@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://revisionism.cf/2022/01/12/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%B0%AC%E8%AE%BA-%E5%85%B6%E5%AE%83/</loc>
+    
+    <lastmod>2022-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://revisionism.cf/2022/01/12/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%B0%AC%E8%AE%BA-%E4%B8%BB%E7%BA%BF/</loc>
+    
+    <lastmod>2022-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://revisionism.cf/2022/01/12/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%B0%AC%E8%AE%BA-%E4%B8%9C%E4%BA%9A%E5%8F%B2/</loc>
     
     <lastmod>2022-01-22</lastmod>
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://revisionism.cf/2022/01/12/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%B0%AC%E8%AE%BA-%E6%94%AF%E7%BA%BF/</loc>
+    <loc>https://revisionism.cf/2022/01/12/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%B0%AC%E8%AE%BA-%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4/</loc>
     
     <lastmod>2022-01-13</lastmod>
     
@@ -38,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://revisionism.cf/2022/01/12/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%B0%AC%E8%AE%BA-%E5%90%8D%E8%AF%8D-%E4%BA%BA%E7%89%A9/</loc>
-    
-    <lastmod>2022-01-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://revisionism.cf/tags/index.html</loc>
     
     <lastmod>2022-01-12</lastmod>
@@ -56,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://revisionism.cf/2022/01/12/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%B0%AC%E8%AE%BA-%E4%B8%BB%E7%BA%BF/</loc>
+    <loc>https://revisionism.cf/2022/01/12/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%B0%AC%E8%AE%BA-%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4%E9%9B%86/</loc>
     
     <lastmod>2022-01-12</lastmod>
     
@@ -76,7 +85,7 @@
 
   <url>
     <loc>https://revisionism.cf/</loc>
-    <lastmod>2022-01-22</lastmod>
+    <lastmod>2022-01-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +93,21 @@
   
   <url>
     <loc>https://revisionism.cf/tags/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E8%B0%AC%E8%AE%BA/</loc>
-    <lastmod>2022-01-22</lastmod>
+    <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://revisionism.cf/tags/BZJR/</loc>
-    <lastmod>2022-01-22</lastmod>
+    <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://revisionism.cf/tags/Rm/</loc>
-    <lastmod>2022-01-22</lastmod>
+    <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
